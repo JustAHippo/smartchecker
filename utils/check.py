@@ -10,7 +10,7 @@ print(f"""
 ╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░  ░╚════╝░╚═╝░░╚═╝╚══════╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝""")
 #love letter
 print('Made by a hippo')
-print('For the coolest macho man there is <3')
+print('For the coolest macho kid there is <3')
 #inputs
 name = input('Name: ')
 bearer = input('Bearer: ')
